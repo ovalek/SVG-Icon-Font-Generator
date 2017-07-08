@@ -16,7 +16,7 @@
 	},
 	"bin": ["bin/composer/svg-icon-font-generator"],
 	"require": {
-		"symfony/console": "~2.1"
+		"symfony/console": "~3.3"
 	},
 	"autoload":{
 		"classmap":["src/"]
